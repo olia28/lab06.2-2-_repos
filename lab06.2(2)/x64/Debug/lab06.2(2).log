@@ -1,0 +1,4 @@
+﻿  lab06.2(2).cpp
+D:\Student\lab06.2(2)\lab06.2(2)\lab06.2(2).cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Student\lab06.2(2)\lab06.2(2)\lab06.2(2).cpp(58,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  lab06.2(2).vcxproj -> D:\Student\lab06.2(2)\x64\Debug\lab06.2(2).exe
